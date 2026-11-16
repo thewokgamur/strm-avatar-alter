@@ -3,6 +3,7 @@ Disclaimer: fully Vibecoded from scratch
 install
 
 in terminal
+
 --pip install pytchat
 
 --pip install pygame
